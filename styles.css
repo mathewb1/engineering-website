@@ -15,8 +15,8 @@ a { color:inherit; }
 .site-header.scrolled { position:fixed; background:rgba(13,20,27,.96); backdrop-filter:blur(15px); }
 .nav-wrap { min-height:86px; width:min(1320px,calc(100% - 48px)); margin:auto; display:flex; align-items:center; justify-content:space-between; gap:32px; }
 .brand { display:flex; align-items:center; gap:14px; text-decoration:none; }
-.brand-logo { width:69px; height:45px; display:grid; place-items:center; overflow:hidden; background:#f7f5ef; }
-.brand-logo img { width:76px; height:51px; object-fit:contain; transform:scale(1.28); }
+.brand-logo { width:78px; height:52px; display:grid; place-items:center; overflow:hidden; }
+.brand-logo img { width:92px; height:61px; object-fit:contain; transform:scale(1.25); }
 .brand-name { font:600 15px/1.2 "Manrope"; letter-spacing:.02em; }
 .brand-name small { display:block; margin-top:5px; color:#aab2b8; font:400 9px/1 "DM Sans"; letter-spacing:.12em; text-transform:uppercase; }
 nav { display:flex; align-items:center; gap:30px; }
