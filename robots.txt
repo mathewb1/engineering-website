@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.jwlengineering.co.uk/sitemap.xml
